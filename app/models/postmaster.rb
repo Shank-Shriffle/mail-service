@@ -1,0 +1,2 @@
+class Postmaster < Account
+end
