@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cost: 1.5
+  status: 1
+  weight_capacity: 1.5
+  volume_capacity: 1.5
+  departure_time: 2024-01-11 16:00:49
+  account: one
+
+two:
+  cost: 1.5
+  status: 1
+  weight_capacity: 1.5
+  volume_capacity: 1.5
+  departure_time: 2024-01-11 16:00:49
+  account: two

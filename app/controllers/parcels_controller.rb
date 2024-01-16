@@ -26,7 +26,6 @@ class ParcelsController < ApplicationController
   private
 
   def get_parcel
-    byebug
     @parcel = Parcel.find(params[:id])
   end
 

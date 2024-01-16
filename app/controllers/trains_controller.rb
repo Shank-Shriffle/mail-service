@@ -20,7 +20,6 @@ class TrainsController < ApplicationController
   end
 
   def update
-    byebug
     if @train.update(train_params)
       render json: @train
     else

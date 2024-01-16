@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  weight: 1.5
+  volume: 1.5
+  status: 1
+  owner: one
+  train: one
+
+two:
+  weight: 1.5
+  volume: 1.5
+  status: 1
+  owner: two
+  train: two
